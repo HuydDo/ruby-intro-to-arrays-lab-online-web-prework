@@ -15,6 +15,7 @@ def array_with_two_elements()
 end
 
 def first_element(array)
+<<<<<<< HEAD
   return array[0]
 end  
 
@@ -37,5 +38,11 @@ end
 def length_of_array(array)
   return array.length
 end
+=======
+  # array = ["hi","there"]
+  return array[0]
+end  
+  
+>>>>>>> 47e2abb94489016f954cafce3d830dbd1f2a42a9
   
   
